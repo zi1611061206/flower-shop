@@ -55,7 +55,7 @@ nav {
 
 .hero {
     height: 100vh;
-    background-image: url('https://via.placeholder.com/1200x600');
+    background-image: url('https://images.unsplash.com/photo-1519376159-27fdeb29b2a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60');
     background-size: cover;
     background-position: center;
     display: flex;
